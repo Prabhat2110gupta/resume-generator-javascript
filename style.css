@@ -1,0 +1,12 @@
+
+.img-fluid{
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 150px;
+}
+.background{
+ background-color: blue;   
+}
+#cv-template{
+    display: none;
+}
